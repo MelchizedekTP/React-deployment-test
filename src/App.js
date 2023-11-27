@@ -5,15 +5,14 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        {/* <a
+        <a
           className="App-link"
           href="https://whatsapp.com/channel/0029Va9s8pH17Emp5rx6Rc15"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Project Lily
-        </a> */}
+          <img src={logo} className="App-logo" alt="logo" />
+        </a>
         <p>Never Settle Persue Virtue.</p>
       </header>
     </div>
