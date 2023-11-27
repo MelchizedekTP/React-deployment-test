@@ -1,9 +1,1 @@
-# Demo
-
-this is a test
-
-# Sub
-
-# subsection
-
-local development
+# test for react deployment
