@@ -1,0 +1,11 @@
+.blog,
+.blog-heading,
+.blog-attributes,
+.blog-content {
+  padding: 1rem 0.3rem;
+  border: 0.2rem;
+  border-radius: 1rem;
+  background-color: white;
+  box-shadow: inset;
+  margin: 10% 5%;
+}
